@@ -1,0 +1,72 @@
+#contact_card {
+        margin: 0 auto;
+        float: none; 
+        margin-bottom: 10px;
+        width: 18rem;
+
+}
+
+#tools {
+
+background-color: gray;
+color: dark;
+font-family: "Verdana";
+font-weight: 900;
+
+}
+
+
+#lastup {
+
+font-size: 10px;
+text-align: left;
+font-style: italic;
+
+
+}
+
+#jake {
+
+color: white;
+
+}
+
+#footer {
+background-color: dark;
+padding: 5px;
+color: white;
+margin-top: 10px;
+
+
+}
+
+
+/*
+#fronte {
+
+border-style: solid;
+
+}
+
+
+#mern {
+
+border-style: solid;
+     
+
+}
+
+
+#othert {
+
+border-style: solid;
+     
+
+}
+
+#tools {
+
+border-style: solid;
+     
+
+} */
